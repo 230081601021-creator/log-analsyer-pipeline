@@ -1,0 +1,5 @@
+INFO: Start
+ERROR: Failed login
+INFO: Process running
+WARNING: CPU high
+ERROR: Disk issue
